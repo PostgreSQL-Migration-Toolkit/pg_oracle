@@ -2,6 +2,8 @@
 PostgreSQL Extesnion to provide Oracle compatible functions.
 
 ### String Functions
+
+```
 ASCII
 CHR
 CONCAT
@@ -26,6 +28,7 @@ SUBSTR
 TRANSLATE
 TRIM
 UPPER
+```
 
 ### Date Functions
 
