@@ -1,2 +1,36 @@
 ## pg_oracle
-Oracle compatible functions for PostgreSQL.
+PostgreSQL Extesnion to provide Oracle compatible functions.
+
+### String Functions
+ASCII
+CHR
+CONCAT
+CONVERT
+DUMP
+INSTR
+INITCAP
+LENGTH
+LOWER
+LPAD
+LTRIM
+REPLACE
+REGEXP_COUNT
+REGEXP_INSTR
+REGEXP_LIKE
+REGEXP_REPLACE
+REGEXP_SUBSTR
+RPAD
+RTRIM
+SOUNDEX
+SUBSTR
+TRANSLATE
+TRIM
+UPPER
+
+### Date Functions
+
+
+
+
+
+
